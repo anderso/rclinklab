@@ -1,0 +1,5 @@
+/.*
+*.pyc
+!.github
+!.gitignore
+!.pre-commit-config.yaml
